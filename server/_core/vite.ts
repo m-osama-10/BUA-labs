@@ -32,6 +32,12 @@ export async function setupVite(app: Express, server: Server) {
         "index.html"
       );
 
+      // Check if file exists before reading
+      if (!fs.existsSync(clientTemplate)) {
+        console.error(`Client template not found at: ${clientTemplate}`);
+        return res.status(404).send("Client template not found. Make sure to build the client first.");
+      }
+
       // always reload the index.html file from disk incase it changes
       let template = await fs.promises.readFile(clientTemplate, "utf-8");
       template = template.replace(
@@ -48,6 +54,7 @@ export async function setupVite(app: Express, server: Server) {
 }
 
 export function serveStatic(app: Express) {
+  // For production, serve from dist/public (where Vite outputs the build)
   const distPath = path.resolve(import.meta.dirname, "../..", "dist", "public");
   
   if (!fs.existsSync(distPath)) {
@@ -64,7 +71,7 @@ export function serveStatic(app: Express) {
     if (fs.existsSync(indexPath)) {
       res.sendFile(indexPath);
     } else {
-      res.status(404).send("index.html not found");
+      res.status(404).send(`<h1>Not Found</h1><p>index.html not found at: ${indexPath}</p>`);
     }
   });
 }
