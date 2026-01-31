@@ -55,16 +55,15 @@ async function startServer() {
       createContext,
     })
   );
-  // development mode uses Vite, production mode uses static files
-  // Check if running in production or if build output exists
-  const isProduction = process.env.NODE_ENV === "production";
-  const distExists = fs.existsSync(path.resolve(import.meta.dirname, "../..", "dist", "public", "index.html"));
+  // Always serve static files first (production build)
+  // Only use Vite in development
+  const isDevelopment = process.env.NODE_ENV === "development";
   
-  if (!isProduction && !distExists) {
-    // Development mode: use Vite
+  if (isDevelopment) {
+    console.log("[Server] Running in DEVELOPMENT mode with Vite");
     await setupVite(app, server);
   } else {
-    // Production mode or dist exists: serve static files
+    console.log("[Server] Running in PRODUCTION mode, serving static files");
     serveStatic(app);
   }
 
