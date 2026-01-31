@@ -2,6 +2,8 @@ import "dotenv/config";
 import express from "express";
 import { createServer } from "http";
 import net from "net";
+import fs from "fs";
+import path from "path";
 import { createExpressMiddleware } from "@trpc/server/adapters/express";
 import { registerOAuthRoutes } from "./oauth";
 import { appRouter } from "../routers";
@@ -54,9 +56,15 @@ async function startServer() {
     })
   );
   // development mode uses Vite, production mode uses static files
-  if (process.env.NODE_ENV === "development") {
+  // Check if running in production or if build output exists
+  const isProduction = process.env.NODE_ENV === "production";
+  const distExists = fs.existsSync(path.resolve(import.meta.dirname, "../..", "dist", "public", "index.html"));
+  
+  if (!isProduction && !distExists) {
+    // Development mode: use Vite
     await setupVite(app, server);
   } else {
+    // Production mode or dist exists: serve static files
     serveStatic(app);
   }
 
