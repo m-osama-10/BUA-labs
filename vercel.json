@@ -3,9 +3,6 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "framework": "vite",
-  "env": {
-    "DATABASE_URL": "@database_url"
-  },
   "regions": ["iad1"],
   "git": {
     "deploymentEnabled": {
