@@ -1,0 +1,3086 @@
+[
+  {
+    "Device ID": "Ph101-WB001 ",
+    "Device Name": "Water bath (big size)",
+    "Brand": "Tai site ",
+    "Model ": "TWB - 22D",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 101",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph101–HP001 ",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505061,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 101",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph101–HP002 ",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505090,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 101",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph101–HP003 ",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505053,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 101",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph101–HP004 ",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 2022050557,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 101",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph101–As001 ",
+    "Device Name": "Water vaccum pump (Aspirator) ",
+    "Brand": "faithiful ",
+    "Model ": "SHZ-D (S)",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 101",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph101-FH001 ",
+    "Device Name": "Fume hood",
+    "Brand": "AS LAB",
+    "Status ": "Not working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 101",
+    "Notes ": "suction not working "
+  },
+  {
+    "Device ID": "Ph102-WB001 ",
+    "Device Name": "Water bath (small size) ",
+    "Brand": "scientific system",
+    "Model ": "HH - S2",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 102",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph102–HP001 ",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505082,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 102",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph102–HP002 ",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505077,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 102",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph102–HP003",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505046,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 102",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph102–HP004",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505050,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 102",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph102–HP005",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220610008,
+    "Status ": "Not working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 102",
+    "Notes ": "Cable destroyed + Stirr is broken "
+  },
+  {
+    "Device ID": "Ph102–HP003 ",
+    "Device Name": "Water vaccum pump (Aspirator) ",
+    "Brand": "Faithiful ",
+    "Model ": "SHZ-D (S)",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 102",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph102–FH001 ",
+    "Device Name": "Fume hood",
+    "Brand": "AS LAB",
+    "Status ": "Not working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 102",
+    "Notes ": "suction not working"
+  },
+  {
+    "Device ID": "Ph103-WB001 ",
+    "Device Name": "Water bath (small size) ",
+    "Brand": "scientific system",
+    "Model ": "HH - S2",
+    "Serial ": 2203181406,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 103",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph103–HP001 ",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505061,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 103",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph103–HP002",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505079,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 103",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph103–HP003",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220610006,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 103",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph103–HP004",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220610012,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 103",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph103–HP005",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505062,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 103",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph103–HP006",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20",
+    "Serial ": 20250527030073,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 103",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph103–As001",
+    "Device Name": "Water vaccum pump (Aspirator) ",
+    "Brand": "Faithiful ",
+    "Model ": "SHZ-DIII",
+    "Serial ": 20210109290019,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 103",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph103–SP001",
+    "Device Name": "Spectrophotometer (visible light) ",
+    "Brand": "Metash",
+    "Model ": "V-5000",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 103",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph103–pH001",
+    "Device Name": "pH meter ",
+    "Brand": "ADWA",
+    "Model ": "AD 8000",
+    "Serial ": 11007070004,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 103",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph103–pH002",
+    "Device Name": "pH meter ",
+    "Brand": "ADWA",
+    "Model ": "AD 1030",
+    "Serial ": 11006200050,
+    "Status ": "Not working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 103",
+    "Notes ": "Condenser unavailable"
+  },
+  {
+    "Device ID": "Ph103–pH003",
+    "Device Name": "pH meter ",
+    "Brand": "ADWA",
+    "Model ": "AD 8000",
+    "Serial ": 11007070026,
+    "Status ": "Not working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 103",
+    "Notes ": "Anoud  head broken"
+  },
+  {
+    "Device ID": "Ph103–FH001",
+    "Device Name": "Fume hood",
+    "Brand": "AS LAB",
+    "Model ": "SHZ-DIII (P)",
+    "Serial ": 20210109290019,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 103"
+  },
+  {
+    "Device ID": "Ph103–DB001",
+    "Device Name": "Digital balance (4 digits) ",
+    "Brand": "RADWAG ",
+    "Model ": "WTC 2000",
+    "Serial ": 670155,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 103"
+  },
+  {
+    "Device ID": "Ph104-WB001 ",
+    "Device Name": "Water bath (big size)",
+    "Brand": "Tai site ",
+    "Model ": "TWB-22D",
+    "Serial ": 202107110038,
+    "Status ": "Not working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "Cable unavailable "
+  },
+  {
+    "Device ID": "Ph104-WB002 ",
+    "Device Name": "Water bath (small size) ",
+    "Brand": "scientific system",
+    "Model ": "HH - S2",
+    "Serial ": 210419840,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph104–HP001 ",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220610007,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph104–HP002",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220610003,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph104–HP003",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505059,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph104–HP004",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505075,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph104–HP005",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505080,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph104–HP006",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220610009,
+    "Status ": "Not working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "Heating not working "
+  },
+  {
+    "Device ID": "Ph104–HP007",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20",
+    "Serial ": 20250527030019,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph104–As001",
+    "Device Name": "Water vaccum pump (Aspirator) ",
+    "Brand": "Faithiful ",
+    "Model ": "SHZ-D III",
+    "Serial ": 20210630007,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph104–SP001",
+    "Device Name": "Spectrophotometer (UV light) ",
+    "Brand": "D-LAB",
+    "Model ": "SP-UV1000",
+    "Serial ": "PB215AA0000268",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph104–pH001",
+    "Device Name": "pH meter ",
+    "Brand": "ADWA",
+    "Model ": "AD 8000",
+    "Serial ": 11007040002,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "Cable destroyed + Stirr is broken "
+  },
+  {
+    "Device ID": "Ph104–pH002",
+    "Device Name": "pH meter ",
+    "Brand": "ADWA",
+    "Model ": "AD 8000",
+    "Serial ": 11007070011,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "Condenser unavailable"
+  },
+  {
+    "Device ID": "Ph104–pH003",
+    "Device Name": "pH meter ",
+    "Brand": "ADWA",
+    "Model ": "AD 8000",
+    "Serial ": 11007070023,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "Anoud  head broken"
+  },
+  {
+    "Device ID": "Ph104–FH001",
+    "Device Name": "Fume hood",
+    "Brand": "AS LAB",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph104–DB001",
+    "Device Name": "Digital balance (4 digits) ",
+    "Brand": "RADWAG ",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 104",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph105-WB001 ",
+    "Device Name": "Water bath (big size)",
+    "Brand": "Tai site ",
+    "Model ": "TWB-22D",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph105–HP001 ",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505054,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph105–HP002",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220610015,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph105–HP003",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505058,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph105–HP004",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505087,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph105–HP005",
+    "Device Name": "Hot plate (digital)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20T",
+    "Serial ": 20220505081,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph105–HP006",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20",
+    "Serial ": 20250527030072,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph105–As001",
+    "Device Name": "Water vaccum pump (Aspirator) ",
+    "Brand": "Faithiful ",
+    "Model ": "SHZ-D III (S)",
+    "Serial ": 202101929009,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph105–SP001",
+    "Device Name": "Spectrophotometer (visible light) ",
+    "Brand": "Metash",
+    "Model ": "V-5100",
+    "Serial ": "AD2104001",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph105–pH001",
+    "Device Name": "pH meter ",
+    "Brand": "ADWA",
+    "Model ": "AD 1030",
+    "Serial ": 11006400014,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph105–pH002",
+    "Device Name": "pH meter ",
+    "Brand": "ADWA",
+    "Model ": "AD 1030",
+    "Serial ": 1106240004,
+    "Status ": "Not working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105",
+    "Notes ": "Condenser unavailable "
+  },
+  {
+    "Device ID": "Ph105–FH001",
+    "Device Name": "Fume hood",
+    "Brand": "AS LAB",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105"
+  },
+  {
+    "Device ID": "Ph105–Ds001",
+    "Device Name": "Distillator ( 9 L / hour ) ",
+    "Brand": "Tai site ",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105",
+    "Notes ": "-"
+  },
+  {
+    "Device ID": "PH105-MP001",
+    "Device Name": "Melting point",
+    "Model ": "AEDMP 800",
+    "Serial ": "AE 25-1-0613-E",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105",
+    "Notes ": "-"
+  },
+  {
+    "Device ID": "PH105-MP002",
+    "Device Name": "Melting point",
+    "Model ": "AEDMP 800",
+    "Serial ": "AB25-1-0613B",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105",
+    "Notes ": "-"
+  },
+  {
+    "Device ID": "PH105-MP003",
+    "Device Name": "Melting point",
+    "Model ": "AEDMP 800",
+    "Serial ": "AEB25-1-0613I",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 105",
+    "Notes ": "-"
+  },
+  {
+    "Device ID": "Ph106–HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20",
+    "Serial ": 20250527030084,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 106",
+    "Notes ": "-"
+  },
+  {
+    "Device ID": "Ph106–HP002",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20",
+    "Serial ": 20250527030037,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 106",
+    "Notes ": "-"
+  },
+  {
+    "Device ID": "Ph106–HP003",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20",
+    "Serial ": 20250527030070,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 106",
+    "Notes ": "-"
+  },
+  {
+    "Device ID": "Ph106–HP004",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20",
+    "Serial ": 20250527030063,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 106",
+    "Notes ": "-"
+  },
+  {
+    "Device ID": "Ph106–FH001",
+    "Device Name": "Fume hood",
+    "Brand": "AS LAB",
+    "Status ": "Not working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 106",
+    "Notes ": "-"
+  },
+  {
+    "Device ID": "Ph106–Ds001",
+    "Device Name": "Distillator ( 10 L / 2.5 hour ) ",
+    "Brand": "lab tech",
+    "Model ": "LWD-1085",
+    "Serial ": 2020101316,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB Ph 106",
+    "Notes ": "-"
+  },
+  {
+    "Device ID": "PTh 416 - SP001",
+    "Device Name": "Spectrophotometer (visible light) ",
+    "Model ": "V 1200",
+    "Serial ": "VAB 39202301100",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "LAB PhS 416",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "PTh 416 - DB001",
+    "Device Name": "Dry bath",
+    "Brand": "D-lab",
+    "Model ": "HB -150s2",
+    "Serial ": "BQ 231AK0000127",
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB PHS 416",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "PTh 416 - WB001",
+    "Device Name": "Water bath (big size)",
+    "Brand": "Tai site ",
+    "Model ": "TWB-22D",
+    "Serial ": 202107110009,
+    "Status ": "Not working",
+    "Department": "BioChemistry",
+    "Location ": "LAB PHS 416",
+    "Notes ": "HEATER"
+  },
+  {
+    "Device ID": "PTh 416 - WB002",
+    "Device Name": "Water bath (big size)",
+    "Brand": "Tai site ",
+    "Model ": "TWB-22D",
+    "Serial ": 20221121028,
+    "Status ": "Not working",
+    "Department": "BioChemistry",
+    "Location ": "LAB PHS 416",
+    "Notes ": "HEATER"
+  },
+  {
+    "Device ID": "PTh 416 - WB003",
+    "Device Name": "Water bath (big size)",
+    "Brand": "-",
+    "Model ": "HH - S6",
+    "Serial ": "-",
+    "Status ": "Not working",
+    "Department": "BioChemistry",
+    "Location ": "LAB PHS 416",
+    "Notes ": "HEATER"
+  },
+  {
+    "Device ID": "PTh 417 - SP001",
+    "Device Name": "Spectrophotometer (visible light) ",
+    "Brand": "Tai site ",
+    "Model ": 721,
+    "Serial ": "20246183-10",
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB PHS 417",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "PTh 417 - VoM001",
+    "Device Name": "Vortex mixer",
+    "Brand": "MaxShave",
+    "Model ": "VM 30",
+    "Serial ": "100633920b6070",
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB PHS 417",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "PTh 417 - CF001",
+    "Device Name": "Centerfuge low speed",
+    "Brand": "Ray wild",
+    "Model ": "roto-TDZ4WS",
+    "Serial ": 249000150505790,
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB PHS 417",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "PTh 417 - WB001",
+    "Device Name": "Water bath (big size)",
+    "Brand": "Chem tech",
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB PHS 417",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "PTh 417 - Ba001",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB PHS 417",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "PTh 417 - HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20",
+    "Serial ": 20231120033,
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB PHS 417",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "PTh 418 - SP001",
+    "Device Name": "Spectrophotometer (visible light) ",
+    "Model ": "V 1200",
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB PHS 418",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "PTh 418 - HP001",
+    "Device Name": "Hot plate (analog)",
+    "Model ": "HS-17",
+    "Serial ": 202200644,
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB PHS 418",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "PTh 419 - SP001",
+    "Device Name": "Spectrophotometer (visible light) ",
+    "Brand": "Tai site ",
+    "Model ": 721,
+    "Serial ": "20256915 - W",
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB PHS 419",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "PTh 419 - HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site ",
+    "Model ": "HPS - 20",
+    "Serial ": 20230416009,
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB PHS 419",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "PTh 419–Ds001",
+    "Device Name": "Distillator ( 9 L / hour ) ",
+    "Brand": "Tai site ",
+    "Model ": "DZ-10L",
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB PHS 419",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "TASH 412–SP001",
+    "Device Name": "Spectrophotometer (UV light) ",
+    "Brand": "D-lab",
+    "Model ": "SP-UV1000",
+    "Serial ": "PB216AA0000272",
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB TASH 412",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "TASH 412–HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site ",
+    "Model ": "HPS-20",
+    "Serial ": 20221116012,
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB TASH 412",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "TASH 412–HP002",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site ",
+    "Model ": "HPS-20",
+    "Serial ": 20221116020,
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB TASH 412",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "TASH 412 - Ba001",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB TASH 412",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "TASH 412 - FH001",
+    "Device Name": "Fume hood",
+    "Brand": "AS LAB",
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB TASH 412",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "TASH 403 – SP001",
+    "Device Name": "Spectrophotometer (UV light) ",
+    "Brand": "Tai site ",
+    "Model ": "UV-90",
+    "Serial ": "YD16202312015",
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB TASH 403",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "TASH 403 - HP001",
+    "Device Name": "Hot plate (analog)",
+    "Model ": "HS-17",
+    "Serial ": 202200643,
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB TASH 403",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "TASH 403 - WB001",
+    "Device Name": "Water bath (big size)",
+    "Brand": "Tai site ",
+    "Model ": "TWB-22D",
+    "Serial ": 202107110015,
+    "Status ": "Working",
+    "Department": "BioChemistry",
+    "Location ": "LAB TASH 403",
+    "Notes ": "-  "
+  },
+  {
+    "Device ID": "Ph505–SP001",
+    "Device Name": "Spectrophotometer (uv light) ",
+    "Brand": "Tai Site",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 505"
+  },
+  {
+    "Device ID": "Ph505–HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 505"
+  },
+  {
+    "Device ID": "Ph505–HP002",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 506"
+  },
+  {
+    "Device ID": "Ph505–HP003",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 507"
+  },
+  {
+    "Device ID": "Ph505–HP004",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 508"
+  },
+  {
+    "Device ID": "Ph505–HP005",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 509"
+  },
+  {
+    "Device ID": "Ph505–HP006",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 510"
+  },
+  {
+    "Device ID": "Ph505–HP007",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 511"
+  },
+  {
+    "Device ID": "Ph505–HP008",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 512"
+  },
+  {
+    "Device ID": "Ph505–DB001",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 513"
+  },
+  {
+    "Device ID": "Ph505–DB002",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 514"
+  },
+  {
+    "Device ID": "Ph505–DB003",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 515"
+  },
+  {
+    "Device ID": "Ph505–DB004",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 516"
+  },
+  {
+    "Device ID": "Ph505–WBS001",
+    "Device Name": "Water bath Shaker",
+    "Brand": "Tai Site",
+    "Model ": "BISL 30",
+    "Serial ": 2107037,
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 517"
+  },
+  {
+    "Device ID": "Ph505–EHS001",
+    "Device Name": "Electronic over head stirr",
+    "Brand": "lachol",
+    "Model ": "LCH-0ES20LD",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 518"
+  },
+  {
+    "Device ID": "Ph505–EHS002",
+    "Device Name": "Electronic over head stirr",
+    "Brand": "lachol",
+    "Model ": "LCH-0ES20LD",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 518"
+  },
+  {
+    "Device ID": "Ph505–EHS003",
+    "Device Name": "Electronic over head stirr",
+    "Brand": "lachol",
+    "Model ": "LCH-0ES20LD",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 518"
+  },
+  {
+    "Device ID": "Ph505–HH001",
+    "Device Name": "Hand held",
+    "Brand": "D-lab",
+    "Model ": "D160",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 519"
+  },
+  {
+    "Device ID": "Ph 502-HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 502"
+  },
+  {
+    "Device ID": "Ph 502-HP002",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 502"
+  },
+  {
+    "Device ID": "Ph 502-HP003",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 502"
+  },
+  {
+    "Device ID": "Ph 502-HP004",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 502"
+  },
+  {
+    "Device ID": "Ph502–DB001",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 502"
+  },
+  {
+    "Device ID": "Ph502–DB002",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 502"
+  },
+  {
+    "Device ID": "Ph502–DB003",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 502"
+  },
+  {
+    "Device ID": "Ph 503-HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 503"
+  },
+  {
+    "Device ID": "Ph 503-HP002",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 503"
+  },
+  {
+    "Device ID": "Ph 503-HP003",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 503"
+  },
+  {
+    "Device ID": "Ph 503-HP004",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 503"
+  },
+  {
+    "Device ID": "Ph503–DB001",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 503"
+  },
+  {
+    "Device ID": "Ph503–DB002",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 503"
+  },
+  {
+    "Device ID": "Ph 508-HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 508"
+  },
+  {
+    "Device ID": "Ph 508-HP002",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 508"
+  },
+  {
+    "Device ID": "Ph 508-HP003",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 508"
+  },
+  {
+    "Device ID": "Ph 508-HP004",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 508"
+  },
+  {
+    "Device ID": "Ph 508-HP005",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 508"
+  },
+  {
+    "Device ID": "Ph 508-HP006",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 508"
+  },
+  {
+    "Device ID": "Ph 508-HP007",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 508"
+  },
+  {
+    "Device ID": "Ph508–DB001",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 508"
+  },
+  {
+    "Device ID": "Ph508–DB002",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "Working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 508"
+  },
+  {
+    "Device ID": "Ph413–MS001",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-42",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS002",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-27",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS003",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-34",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS004",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-77",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS005",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-111",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS006",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-115",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS007",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-64",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS008",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-24",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS009",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-76",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS010",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-53",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS011",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-60",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS012",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-06",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS013",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-105",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS014",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-28",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS015",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-21",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS016",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-31",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS017",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-40",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS018",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-78",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS019",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-88",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS020",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS021",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS022",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 107",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–MS023",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 107",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413"
+  },
+  {
+    "Device ID": "Ph413–WB001",
+    "Device Name": "Water bath (big size)",
+    "Brand": "Tai site ",
+    "Model ": "TWB - 22D",
+    "Serial ": 202107110035,
+    "Status ": "Not working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 413",
+    "Notes ": "Power Key"
+  },
+  {
+    "Device ID": "Ph414–MS001",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-56",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS002",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-4",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS003",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-31",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS004",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-69",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS005",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-39",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS006",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-11",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS007",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-86",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS008",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-101",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS009",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-54",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS010",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-59",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS011",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-53",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS012",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-25",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS013",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-37",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS014",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-46",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS015",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-17",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS016",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-22",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS017",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-23",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS018",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-53",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS019",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-14",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS020",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 107",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–MS021",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 107",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph414–WB001",
+    "Device Name": "Water bath (small size) ",
+    "Brand": "scientific system",
+    "Model ": "HH - S2",
+    "Serial ": 2203181109,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 414"
+  },
+  {
+    "Device ID": "Ph412–MS001",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-33",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS002",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-73",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS003",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-15",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS004",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-51",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS005",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-10",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS006",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-67",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS007",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-2",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS008",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-45",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS009",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-30",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS010",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-46",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS011",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-28",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS012",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-106",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS013",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-77",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS014",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-65",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS015",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-9",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS016",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-48",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS017",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-58",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS018",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-29",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS019",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-7",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS020",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 107",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS021",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 107",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS022",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–MS023",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph412–WB001",
+    "Device Name": "Water bath (big size)",
+    "Brand": "Tai site ",
+    "Model ": "TWB - 22D",
+    "Serial ": 202107110002,
+    "Status ": "Not working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412",
+    "Notes ": "Power Key"
+  },
+  {
+    "Device ID": "Ph412–Ov001",
+    "Device Name": "Oven",
+    "Brand": "Titanox",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 412"
+  },
+  {
+    "Device ID": "Ph406–MS001",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-90",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS002",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-89",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS003",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-82",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS004",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-99",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS005",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-117",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS006",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-59",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS007",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508678-30",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS008",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 107",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS009",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 108",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS010",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 109",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS011",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 110",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS012",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 111",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS013",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 112",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS014",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 113",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS015",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 114",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS016",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 115",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS017",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 116",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS018",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 117",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS019",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 118",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS020",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 119",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS021",
+    "Device Name": "Microscope ",
+    "Brand": "Opto-Edu",
+    "Model ": "-",
+    "Serial ": "XSZ-TB 120",
+    "Status ": "Not working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406",
+    "Notes ": "lampa"
+  },
+  {
+    "Device ID": "Ph406–MS022",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–MS023",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph406–WB001",
+    "Device Name": "Water bath (big size)",
+    "Model ": "WB 100 - 6",
+    "Serial ": 202301006028,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 406"
+  },
+  {
+    "Device ID": "Ph206–MS001",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph206–MS002",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph206–MS003",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph206–MS004",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph206–MS005",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph206–MS006",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph206–MS007",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph206–MS008",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph206–MS009",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph206–MS010",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph206–MS011",
+    "Device Name": "Microscope ",
+    "Brand": "SopTop",
+    "Model ": "E5",
+    "Serial ": "2508677-98",
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph206–MS012",
+    "Device Name": "Microscope ",
+    "Brand": "Sinher",
+    "Model ": "XSZ 107 BN",
+    "Serial ": 24032201,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph206–MS013",
+    "Device Name": "Microscope ",
+    "Brand": "Sinher",
+    "Model ": "XSZ 107 BN",
+    "Serial ": 24032201,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph206–MS014",
+    "Device Name": "Microscope ",
+    "Brand": "Sinher",
+    "Model ": "XSZ 107 BN",
+    "Serial ": 24032201,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph206–MS015",
+    "Device Name": "Microscope ",
+    "Brand": "Sinher",
+    "Model ": "XSZ 107 BN",
+    "Serial ": 24032201,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph206–MS016",
+    "Device Name": "Microscope ",
+    "Brand": "Sinher",
+    "Model ": "XSZ 107 BN",
+    "Serial ": 24032201,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 206"
+  },
+  {
+    "Device ID": "Ph204–MS001",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 204"
+  },
+  {
+    "Device ID": "Ph204–MS002",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 204"
+  },
+  {
+    "Device ID": "Ph204–MS003",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 204"
+  },
+  {
+    "Device ID": "Ph204–MS004",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 204"
+  },
+  {
+    "Device ID": "Ph204–MS005",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 204"
+  },
+  {
+    "Device ID": "Ph204–MS006",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 204"
+  },
+  {
+    "Device ID": "Ph204–MS007",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 204"
+  },
+  {
+    "Device ID": "Ph204–MS008",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 204"
+  },
+  {
+    "Device ID": "Ph204–MS009",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 204"
+  },
+  {
+    "Device ID": "Ph204–MS010",
+    "Device Name": "Microscope ",
+    "Brand": "New",
+    "Model ": "107-New",
+    "Serial ": 2404250,
+    "Status ": "Working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 204"
+  },
+  {
+    "Device ID": "Ph204–FH001",
+    "Device Name": "Fume hood",
+    "Status ": "Not working",
+    "Department": "Medicenal Plant",
+    "Location ": "Lab Ph 204"
+  },
+  {
+    "Device ID": " Ph209-WB001",
+    "Device Name": "Water bath (big size)",
+    "Brand": "Chem Tech",
+    "Model ": "-",
+    "Serial ": "-",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 209"
+  },
+  {
+    "Device ID": " Ph209-WB002",
+    "Device Name": "Water bath (small size) ",
+    "Brand": "Spark science ",
+    "Model ": "WB100 - 4F",
+    "Serial ": 20240119026,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 209"
+  },
+  {
+    "Device ID": " Ph209-HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 20240601053,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 209"
+  },
+  {
+    "Device ID": " Ph209-HP002",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 20250527030025,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 209"
+  },
+  {
+    "Device ID": " Ph209-HP003",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 20250527030050,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 209"
+  },
+  {
+    "Device ID": " Ph209-HP004",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 20250527030028,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 209"
+  },
+  {
+    "Device ID": " Ph209-HP005",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 20240601056,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 209"
+  },
+  {
+    "Device ID": " Ph209-HP006",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 20240601063,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 209"
+  },
+  {
+    "Device ID": " Ph209-As001",
+    "Device Name": "Water vaccum pump (Aspirator) ",
+    "Brand": "faithiful ",
+    "Model ": "SHZ-D (S)",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 209"
+  },
+  {
+    "Device ID": " Ph209-CF001",
+    "Device Name": "Centerfuge low speed",
+    "Brand": "Ray Wild",
+    "Model ": "TZD4-WS",
+    "Serial ": 249000150505777,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 209"
+  },
+  {
+    "Device ID": " Ph209-SP001",
+    "Device Name": "Spectrophotometer (UV light) ",
+    "Brand": "Tai site",
+    "Model ": "UV 90",
+    "Serial ": 16202411010,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 209"
+  },
+  {
+    "Device ID": " Ph210-WB001",
+    "Device Name": "Water bath (big size)",
+    "Brand": "-",
+    "Model ": "-",
+    "Serial ": "-",
+    "Status ": "Not working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 210"
+  },
+  {
+    "Device ID": " Ph210-WB002",
+    "Device Name": "Water bath (small size) ",
+    "Brand": "Spark science ",
+    "Model ": "WB100 - 4F",
+    "Serial ": 20240119045,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 210"
+  },
+  {
+    "Device ID": " Ph210-HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 20240601073,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 210"
+  },
+  {
+    "Device ID": " Ph210-HP002",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 20240601012,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 210"
+  },
+  {
+    "Device ID": " Ph210-HP003",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 20240601062,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 210"
+  },
+  {
+    "Device ID": " Ph210-HP004",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 20240601054,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 210"
+  },
+  {
+    "Device ID": " Ph210-As001",
+    "Device Name": "Water vaccum pump (Aspirator) ",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 210"
+  },
+  {
+    "Device ID": " Ph210-SP001",
+    "Device Name": "Spectrophotometer (UV light) ",
+    "Brand": "Tai site",
+    "Model ": "UV 90",
+    "Serial ": 16202411007,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 210"
+  },
+  {
+    "Device ID": " Ph210-Ds001",
+    "Device Name": "Distillator ( 10 L / 2.5 hour ) ",
+    "Brand": "PO3EL",
+    "Model ": "DESA0041",
+    "Serial ": 847920053699,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 210"
+  },
+  {
+    "Device ID": " Ph211-WB001",
+    "Device Name": "Water bath (big size)",
+    "Brand": "-",
+    "Model ": "-",
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 211"
+  },
+  {
+    "Device ID": " Ph211-WB002",
+    "Device Name": "Water bath (small size) ",
+    "Brand": "Spark science ",
+    "Model ": "WB100 - 4F",
+    "Serial ": 20240119036,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 211"
+  },
+  {
+    "Device ID": " Ph211-HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 20240601060,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 211"
+  },
+  {
+    "Device ID": " Ph211-HP002",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 20240601069,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 211"
+  },
+  {
+    "Device ID": " Ph211-HP003",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 20240601052,
+    "Status ": "Working",
+    "Department": "Chemistry",
+    "Location ": "Lab Ph 211"
+  },
+  {
+    "Device ID": "Ph209–HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 212"
+  },
+  {
+    "Device ID": "Ph209–DB001",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 212"
+  },
+  {
+    "Device ID": "Ph209–DB002",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 212"
+  },
+  {
+    "Device ID": "Ph209–DB003",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 212"
+  },
+  {
+    "Device ID": "Ph209–DB004",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 212"
+  },
+  {
+    "Device ID": "Ph210–HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 210"
+  },
+  {
+    "Device ID": "Ph210–HP002",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 210"
+  },
+  {
+    "Device ID": "Ph210–HP003",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 210"
+  },
+  {
+    "Device ID": "Ph210–DB001",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 210"
+  },
+  {
+    "Device ID": "Ph211–HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 211"
+  },
+  {
+    "Device ID": "Ph211–HP002",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai Site",
+    "Model ": "HPS - 20",
+    "Status ": "working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 211"
+  },
+  {
+    "Device ID": "Ph211–DB001",
+    "Device Name": "Digital balance (4 digits) ",
+    "Model ": "XY 2000 2c",
+    "Status ": "working",
+    "Department": "Pharmaceutics",
+    "Location ": "Lab Ph 211"
+  },
+  {
+    "Device ID": " Ph306-DB001",
+    "Device Name": "Digital balance (4 digits) ",
+    "Brand": "-",
+    "Model ": "2000 G",
+    "Serial ": "0.01 G",
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 306"
+  },
+  {
+    "Device ID": " Ph306-DB002",
+    "Device Name": "Digital balance (4 digits) ",
+    "Brand": "-",
+    "Model ": "2000 G",
+    "Serial ": "0.01 G",
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 306"
+  },
+  {
+    "Device ID": " Ph306-DB003",
+    "Device Name": "Digital balance (4 digits) ",
+    "Brand": "-",
+    "Model ": "2000 G",
+    "Serial ": "0.01 G",
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 306"
+  },
+  {
+    "Device ID": " Ph306-HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 20250527000049,
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 306"
+  },
+  {
+    "Device ID": " Ph306-HP002",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 2025027030055,
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 306"
+  },
+  {
+    "Device ID": " Ph306-KyG001",
+    "Device Name": "kymograph",
+    "Brand": "-",
+    "Model ": "-",
+    "Serial ": "-",
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 306"
+  },
+  {
+    "Device ID": " Ph306-KyG002",
+    "Device Name": "kymograph",
+    "Brand": "-",
+    "Model ": "-",
+    "Serial ": "-",
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 306"
+  },
+  {
+    "Device ID": " Ph306-KyG003",
+    "Device Name": "kymograph",
+    "Brand": "-",
+    "Model ": "-",
+    "Serial ": "-",
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 306"
+  },
+  {
+    "Device ID": " Ph306-KyG004",
+    "Device Name": "kymograph",
+    "Brand": "-",
+    "Model ": "-",
+    "Serial ": "-",
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 306"
+  },
+  {
+    "Device ID": " Ph306-KyG005",
+    "Device Name": "kymograph",
+    "Brand": "-",
+    "Model ": "-",
+    "Serial ": "-",
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 306"
+  },
+  {
+    "Device ID": " Ph306-KyG006",
+    "Device Name": "kymograph",
+    "Brand": "-",
+    "Model ": "-",
+    "Serial ": "-",
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 306"
+  },
+  {
+    "Device ID": " Ph306-KyG007",
+    "Device Name": "kymograph",
+    "Brand": "-",
+    "Model ": "-",
+    "Serial ": "-",
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 306"
+  },
+  {
+    "Device ID": " Ph306-KyG008",
+    "Device Name": "kymograph",
+    "Brand": "-",
+    "Model ": "-",
+    "Serial ": "-",
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 306"
+  },
+  {
+    "Device ID": " Ph306-KyG009",
+    "Device Name": "kymograph",
+    "Brand": "-",
+    "Model ": "-",
+    "Serial ": "-",
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 306"
+  },
+  {
+    "Device ID": " Ph306-KyG010",
+    "Device Name": "kymograph",
+    "Brand": "-",
+    "Model ": "-",
+    "Serial ": "-",
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 306"
+  },
+  {
+    "Device ID": " Ph307-DB001",
+    "Device Name": "Digital balance (4 digits) ",
+    "Brand": "-",
+    "Model ": "2000 G",
+    "Serial ": "0.01 G",
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 307"
+  },
+  {
+    "Device ID": " Ph307-DB002",
+    "Device Name": "Digital balance (4 digits) ",
+    "Brand": "-",
+    "Model ": "2000 G",
+    "Serial ": "0.01 G",
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 307"
+  },
+  {
+    "Device ID": " Ph307-HP001",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 2025027030081,
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 307"
+  },
+  {
+    "Device ID": " Ph307-HP002",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 2025027030009,
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 307"
+  },
+  {
+    "Device ID": " Ph307-HP003",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 2025027030038,
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 307"
+  },
+  {
+    "Device ID": " Ph307-HP004",
+    "Device Name": "Hot plate (analog)",
+    "Brand": "Tai site",
+    "Model ": "HPS - 20",
+    "Serial ": 2025027030058,
+    "Status ": "Working",
+    "Department": "Pharmacology ",
+    "Location ": "Lab Ph 307"
+  }
+]
