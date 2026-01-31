@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BUA Smart Unit for Lab Equipment Management
 
 A comprehensive web-based Asset Management System for Badr University in Assiut, designed to track, manage, and maintain laboratory equipment across faculties, departments, and laboratories.
@@ -292,3 +293,7 @@ Built with:
 **Last Updated:** January 26, 2026
 
 For more information, see the [ARCHITECTURE.md](./ARCHITECTURE.md) file for detailed system design.
+=======
+# BUA-labs
+BUA Asset Management Smart Unit for Lab Equipment Management
+>>>>>>> b55a813aebeb31cf99e2c0407128fa848e30547e
